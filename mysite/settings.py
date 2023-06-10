@@ -56,8 +56,7 @@ TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         'DIRS': [
-            'C:\\Users\HP\\Desktop\\piyush django\\mysite\\polls1\\templates\\index.html',
-            '/static/'
+            'C:\\Users\HP\\Desktop\\piyush django\\mysite\\polls1\\templates\\index.html'
             ],
         'APP_DIRS': True,
         'OPTIONS': {
